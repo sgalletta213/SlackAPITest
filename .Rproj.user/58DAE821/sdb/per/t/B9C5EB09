@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "#* @get /stockquote\n\nnewgetquote <- function(thesymbol){\n  myresults <- quantmod::getQuote(thesymbol)\n  if(is.na(myresults[1,1])){\n    mytext <- paste0(\"A price is not available for \",\n                      thesymbol)\n  } else {\n    mytext <- paste0(\"Price for \",\n                      thesymbol,\n                      \" is $\",\n                      myresults[1,2])\n  }\n  \n  return(mytext)\n}\n",
+    "created" : 1500568896660.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "423400985",
+    "id" : "B9C5EB09",
+    "lastKnownWriteTime" : 1500568940,
+    "last_content_update" : 1500568940214,
+    "path" : "~/Documents/GitHub/SlackAPITest/stockfunction.R",
+    "project_path" : "stockfunction.R",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

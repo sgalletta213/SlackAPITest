@@ -1,0 +1,5 @@
+Thoughts on JeopardyBot
+
+http://www.computerworld.com/article/3171766/application-development/how-to-create-your-own-slack-bots-and-web-apis-in-r.html?page=2
+
+digital ocean

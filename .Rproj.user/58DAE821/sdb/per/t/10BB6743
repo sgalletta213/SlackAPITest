@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "Thoughts on JeopardyBot\n\nhttp://www.computerworld.com/article/3171766/application-development/how-to-create-your-own-slack-bots-and-web-apis-in-r.html?page=2\n\ndigital ocean",
+    "created" : 1500586470579.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1530834558",
+    "id" : "10BB6743",
+    "lastKnownWriteTime" : 1500586559,
+    "last_content_update" : 1500586559314,
+    "path" : "~/Documents/GitHub/SlackAPITest/Notes.txt",
+    "project_path" : "Notes.txt",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}
